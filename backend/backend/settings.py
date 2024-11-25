@@ -11,7 +11,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['89.169.165.190', 'tasktracker.hopto.org']
 
 
-# Application definitionc
+# Application definition
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
